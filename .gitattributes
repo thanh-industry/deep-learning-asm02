@@ -1,1 +1,2 @@
 model_fasterrcnn.pt filter=lfs diff=lfs merge=lfs -text
+model_yolov8.pt filter=lfs diff=lfs merge=lfs -text
